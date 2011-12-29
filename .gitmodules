@@ -1,3 +1,6 @@
 [submodule "system"]
 	path = system
-	url = https://lildude@github.com/lildude/system.git
+	url = https://github.com/habari/system.git
+[submodule "doc"]
+	path = doc
+	url = https://github.com/habari/doc.git
